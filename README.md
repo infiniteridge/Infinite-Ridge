@@ -30,7 +30,7 @@
   <main>
     <section>
       <h2>Welcome to the Rhythmic Realm of Infinite Ridge, where the power of music knows no bounds! Step into a captivating world where pulsating rhythms, electrifying melodies, and soul-stirring harmonies converge to create an unforgettable sonic journey!</h2>
-      <img src="band_photo.jpg" alt="Infinite Ridge Band" class="band-photo">
+      <img src="https://res.cloudinary.com/dwsz8asne/image/upload/v1686204861/band_photo_o5zj5b.jpg" alt="Infinite Ridge Band" class="band-photo">
     </section>
     
     <section>
@@ -42,9 +42,8 @@
       <p>Under Joshua's leadership, the band delivers powerful performances, combining his electrifying guitar skills with his commanding vocals. Supported by Justin's solid basslines, Jamie's soulful melodies, Ashley's atmospheric keyboard textures, and Jimuel's rhythmic prowess, Infinite Ridge creates a harmonious blend of sound that is both exhilarating and emotionally charged.
 
       <p>Since their formation, Infinite Ridge has made a strong impact on the local music scene, captivating audiences with their passionate stage presence and undeniable talent. As they continue to evolve and gain popularity, they invite you to join them on their musical journey. Be prepared to be amazed by their alternative rock roots, experimental fusions, and heartfelt performances. Stay tuned for their upcoming releases and live shows as this remarkable band from Bacolod City continues to make their mark in the world of music.</p>
-    </section>
     
-<section>
+    <section>
       <h2>Band Members</h2>
       <div class="member">
         <a href="joshua.html"><img src="https://res.cloudinary.com/dwsz8asne/image/upload/v1686204861/joshua_t8f5uz.jpg" alt="Joshua"></a>
@@ -79,5 +78,3 @@
   <footer>
     <p>&copy; 2023 Infinite Ridge. All rights reserved.</p>
   </footer>
-</body>
-</html>
